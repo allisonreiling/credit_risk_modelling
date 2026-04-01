@@ -3,7 +3,7 @@ Credit Risk Modelling
 Objective: build and evaluate several ML models on credit risk data.
 Purpose: to predict customer credit risk and feature importance related to credit risk.
 
-AMEX dataset: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
+AMEX dataset: [https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset](https://www.kaggle.com/datasets/pradip11/amexpert-codelab-2021)
 
 Key Findings:
 
